@@ -1,0 +1,18 @@
+to list all movies
+request : GET /api/movies
+reponse : 
+movies:[
+    {
+        name: 'Inception', 
+        year: 2010, 
+        id: '1'
+    },
+    {
+        name: 'Interstellar', 
+        year: 2014, 
+        id: '2'},
+    {
+        name: 'Dunkirk', 
+        year: 2017, 
+        id: '3'}
+        ]
